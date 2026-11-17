@@ -4,7 +4,7 @@ plugins {
 
 android {
     namespace = "com.example.kartkowka_moja"
-    compileSdk = 35
+    compileSdk = 36
 
     defaultConfig {
         applicationId = "com.example.kartkowka_moja"
